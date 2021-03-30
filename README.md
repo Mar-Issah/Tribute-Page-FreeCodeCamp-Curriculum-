@@ -4,7 +4,7 @@ A tribute page for Dr. Kwame Nkrumah, the man who led Ghana to achieve independe
 
 ![Tribute Page - Dr. Kwame Nkrumah](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617066924/My%20Website%20Projects/Dr._Kwame_Nkrumah_gi05cw.png)
 
-This is a simple web application web application project mainly to practice my HTML% and CSS3 skills. This page talks about a man who lived an exemplary life worth emulating. Have a good read guys!!!
+This is a simple web application web application project mainly to practice my HTML5 and CSS3 skills. This page talks about a man who lived an exemplary life worth emulating. Have a good read guys!!!
 
 <br>
 
