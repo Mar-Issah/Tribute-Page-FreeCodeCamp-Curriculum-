@@ -1,0 +1,60 @@
+main {
+  background: #efefef;
+  font-family: "Lato", "Lucida Grande", "Lucida Sans Unicode", sans-serif;
+  margin: 2em 0;
+}
+
+h1 {
+  font-weight: bolder;
+}
+
+#title {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+#img-div {
+  background-color: white;
+  margin: 1rem 1rem;
+  padding: 0.5rem 0.5rem;
+  display: flex;
+  justify-content: center;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+}
+#tribute-info {
+  text-align: center;
+}
+
+#time-line {
+  display: flex;
+  padding: 0 2rem;
+  min-width: 50%;
+}
+li {
+  margin: 1rem 0;
+}
+blockquote {
+  padding: 0 2rem;
+}
+#link {
+  text-align: center;
+  padding-bottom: 1.5rem;
+}
+
+@media (min-width: 750px) {
+  #time-line {
+    padding: 0 7.5rem;
+  }
+  blockquote {
+    padding: 0 7.5rem;
+  }
+}
