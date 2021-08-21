@@ -9,9 +9,9 @@ This is a simple web application web application project mainly to practice my H
 <br>
 
 ### Built With / Requirements :construction_worker:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 
 <br>
@@ -26,9 +26,10 @@ This is a simple web application web application project mainly to practice my H
    ```sh
    git clone https://github.com/Mar-Issah/Tribute-Page-FreeCodeCamp-Curriculum-.git
    ```
-2. Dowload and install [Visual Studio Code](https://code.visualstudio.com/)
-3. Install live server extension
-4. Open index.html file with live server
+2. cd into the new directory
+3. Dowload and install [Visual Studio Code](https://code.visualstudio.com/)
+4. Install live server extension
+5. Open index.html file with live server
 
 
 <br>
