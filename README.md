@@ -26,7 +26,7 @@ This is a simple web application web application project mainly to practice my H
    ```sh
    git clone https://github.com/Mar-Issah/Tribute-Page-FreeCodeCamp-Curriculum-.git
    ```
-2. cd into the new directory
+2. cd into the new directory.
 3. Dowload and install [Visual Studio Code](https://code.visualstudio.com/)
 4. Install live server extension
 5. Open index.html file with live server
