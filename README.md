@@ -38,7 +38,7 @@ This is a simple web application web application project mainly to practice my H
 
 ## Project View
 
-[Click here](https://codepen.io/marsiya-issah/full/bGeLPZN) to view project on CodePen
+[Click here](https://codepen.io/marsiya-issah/full/bGeLPZN) to view project on CodePen.
 
 
 <br>
