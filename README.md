@@ -1,4 +1,4 @@
-# Tribute Page - FreeCodeCamp
+# Tribute Page -
 A tribute page for Dr. Kwame Nkrumah, the man who led Ghana to achieve independence.
 ## About The Project
 
