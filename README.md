@@ -1,5 +1,5 @@
 # Tribute Page
-A tribute page for Dr. Kwame Nkrumah, the man who led Ghana to achieve independence.
+A tribute page for Dr. Kwame Nkrumah, the man who led Ghana to achieve its independence.
 ## About The Project
 
 ![Tribute Page - Dr. Kwame Nkrumah](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617066924/My%20Website%20Projects/Dr._Kwame_Nkrumah_gi05cw.png)
